@@ -12,7 +12,7 @@ https://developer.android.com/media/camera/camerax
 
 https://www.tensorflow.org/lite
 
-![Screenshot_20240624_204006_Landmark](https://github.com/MinusMallard/LandMarkAIDetector/assets/116078997/f2b0339a-d33f-4061-be3d-7f44e7fc0ecf) ![Screenshot_20240624_204053_Landmark](https://github.com/MinusMallard/LandMarkAIDetector/assets/116078997/224d4154-dbbb-4761-bb94-ab4fb6cbff77) ![Screenshot_20240624_204344_Landmark](https://github.com/MinusMallard/LandMarkAIDetector/assets/116078997/532a34b6-218c-461a-a249-e0b022f2cac7)
+![Untitled](https://github.com/MinusMallard/LandMarkAIDetector/assets/116078997/54ae78e3-6351-45d9-b253-2acf4e00b55c)
 
 
 ## GettingStarted
