@@ -46,3 +46,7 @@ Distributed under the MIT License.
 
 https://github.com/MinusMallard/LandMarkAIDetector/blob/main/LICENSE
 
+# DownloadApk
+
+https://drive.google.com/file/d/1n47sJ2cNtFzjU01HFU33nCGUh37d3Qu0/view?usp=sharing
+
