@@ -11,6 +11,8 @@ This application is crafted using the latest advancements in mobile development.
 https://developer.android.com/media/camera/camerax
 
 https://www.tensorflow.org/lite
+
+![Screenshot_20240624_204006_Landmark](https://github.com/MinusMallard/LandMarkAIDetector/assets/116078997/73f4322a-1af9-4b0d-935c-1d97afaf3efd)
 ## GettingStarted
 
 To clone this project into Android Studio follow this tutorial:
